@@ -1,5 +1,45 @@
 [
   {
+    "name": "ONLIMAKE SHARES",
+    "address": "0x2a7e1070ba4dab73c9241835357dadcf68ba5d18",
+    "symbol": "MAKES",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://logo.png"
+  },
+  {
+    "name": "PACTO",
+    "address": "0xcca8b9333ac8c240eac74dcac344f1d88270e646",
+    "symbol": "PACTO",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://logo.png"
+  },
+{
+    "name": "PACTOLOMA",
+    "address": "0x3c18c8cd471d8b1c2663e17082505a705f3201c6",
+    "symbol": "PACMA",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://logo.png"
+  },
+{
+    "name": "BANJHU",
+    "address": "0xa33827c0951881a6fb119d1cd6bfcb096b4ce7c2",
+    "symbol": "OVNI",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://logo.png"
+  },
+{
+    "name": "ALCIVAR",
+    "address": "0x02f10e5d1da0a873abbed4bbe9ce7ef8302886a0",
+    "symbol": "ALCI",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://logo.png"
+  },
+  {
     "name": "Wrapped Ether",
     "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
     "symbol": "WETH",
