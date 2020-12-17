@@ -1,5 +1,29 @@
 [
   {
+    "name": "SERVIECONOMIA INC",
+    "address": "0x948e688d95617a96b34f82094075bec6640e6166",
+    "symbol": "ETHINC",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://logo.png"
+  },
+  {
+    "name": "SERVIECONOMIA SHARES",
+    "address": "0x4573fbeb7c53c75fe1f83f688bec22c389540ba0", 
+    "symbol": "ETHINS",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://logo.png"
+  },
+  {
+    "name": "ONLIMAKE",
+    "address": "0x0a99cA0e1a576109F6dBDe15F526E98cd0E4000E", 
+    "symbol": "MAKE",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://logo.png"
+  },
+  {
     "name": "Wrapped Ether",
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "symbol": "WETH",
