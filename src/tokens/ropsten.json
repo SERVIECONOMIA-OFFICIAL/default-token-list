@@ -1,5 +1,13 @@
 [
   {
+    "name": "ONLIMAKE SHARES",
+    "address": "0x2a7e1070ba4dab73c9241835357dadcf68ba5d18",
+    "symbol": "MAKES",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://avatars3.githubusercontent.com/u/31868517?s=460&u=ce3499ed6f54ca00d97d98925c0644808109fdc7&v=4"
+  }
+  {
     "name": "Wrapped Ether",
     "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
     "symbol": "WETH",
